@@ -1,0 +1,15 @@
+{
+  "name": "data-structures-js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "@types/jest": "latest",
+    "babel-jest": "latest",
+    "jest": "latest"
+  }
+}
