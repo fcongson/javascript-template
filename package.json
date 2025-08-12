@@ -1,15 +1,16 @@
 {
-  "name": "data-structures-js",
+  "name": "javascript-template",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node src/index.js"
   },
   "devDependencies": {
-    "@babel/core": "7.26.10",
-    "@babel/preset-env": "7.26.9",
-    "@types/jest": "29.5.14",
-    "babel-jest": "latest",
-    "jest": "latest"
+    "@babel/core": "7.28.0",
+    "@babel/preset-env": "7.28.0",
+    "@types/jest": "30.0.0",
+    "babel-jest": "30.0.5",
+    "jest": "30.0.5"
   }
 }
